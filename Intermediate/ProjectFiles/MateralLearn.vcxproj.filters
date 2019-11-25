@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MateralLearn.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6E8B0D8D-AE64-48C1-8533-F12567552A6E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MateralLearn.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MateralLearnEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{5936D11E-4D75-4C8B-91ED-E443CB0F1C57}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MateralLearn">
+      <UniqueIdentifier>{298D3598-051B-46C6-BE87-2F95245DB372}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MateralLearn\MateralLearn.Build.cs">
+      <Filter>Source\MateralLearn</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MateralLearn\MateralLearn.cpp">
+      <Filter>Source\MateralLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MateralLearn\MateralLearn.h">
+      <Filter>Source\MateralLearn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MateralLearn\MateralLearnGameModeBase.cpp">
+      <Filter>Source\MateralLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MateralLearn\MateralLearnGameModeBase.h">
+      <Filter>Source\MateralLearn</Filter>
+    </ClInclude>
+    <Filter Include="Source\MateralLearn\DrawBezierActor">
+      <UniqueIdentifier>{659B458F-4A86-4CDE-9848-3C05029C197C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MateralLearn\DrawBezierActor\DrawBezierActor.cpp">
+      <Filter>Source\MateralLearn\DrawBezierActor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MateralLearn\DrawBezierActor\DrawBezierActor.h">
+      <Filter>Source\MateralLearn\DrawBezierActor</Filter>
+    </ClInclude>
+    <Filter Include="Source\MateralLearn\DrawBezierActor\BezierMoveActor">
+      <UniqueIdentifier>{E758D7D5-2EC7-4C53-8F23-66A645009FA1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MateralLearn\DrawBezierActor\BezierMoveActor\BezierMoveActor.cpp">
+      <Filter>Source\MateralLearn\DrawBezierActor\BezierMoveActor</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MateralLearn\DrawBezierActor\BezierMoveActor\BezierMoveActor.h">
+      <Filter>Source\MateralLearn\DrawBezierActor\BezierMoveActor</Filter>
+    </ClInclude>
+    <Filter Include="Source\MateralLearn\DrawBezierActor\BezierPoint">
+      <UniqueIdentifier>{AFEBAC3E-B4B0-4D00-8E02-AE45273125F3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MateralLearn\DrawBezierActor\BezierPoint\BezierPoint.cpp">
+      <Filter>Source\MateralLearn\DrawBezierActor\BezierPoint</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MateralLearn\DrawBezierActor\BezierPoint\BezierPoint.h">
+      <Filter>Source\MateralLearn\DrawBezierActor\BezierPoint</Filter>
+    </ClInclude>
+    <Filter Include="Source\MateralLearn\RotateAngleAxis">
+      <UniqueIdentifier>{B1090C0A-6531-4417-8FE1-60371B1B7DBB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MateralLearn\RotateAngleAxis\RotateAngleAxis.cpp">
+      <Filter>Source\MateralLearn\RotateAngleAxis</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MateralLearn\RotateAngleAxis\RotateAngleAxis.h">
+      <Filter>Source\MateralLearn\RotateAngleAxis</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
