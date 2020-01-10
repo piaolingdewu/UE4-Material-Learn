@@ -1,7 +1,7 @@
 {
-	"BuildId": "5660361",
+	"BuildId": "8386587",
 	"Modules": 
 	{
-		"MateralLearn": "UE4Editor-MateralLearn-0001.dll"
+		"MateralLearn": "UE4Editor-MateralLearn.dll"
 	}
 }

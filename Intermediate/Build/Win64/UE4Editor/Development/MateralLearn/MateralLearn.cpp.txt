@@ -1,2 +1,2 @@
-C:\Users\18231\Desktop\low\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Development\MateralLearn\Definitions.MateralLearn.h
-C:\Users\18231\Desktop\low\UE4-Material-Learn\Source\MateralLearn\MateralLearn.h
+C:\Users\Azaz\Documents\GitHub\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Development\MateralLearn\Definitions.MateralLearn.h
+C:\Users\Azaz\Documents\GitHub\UE4-Material-Learn\Source\MateralLearn\MateralLearn.h

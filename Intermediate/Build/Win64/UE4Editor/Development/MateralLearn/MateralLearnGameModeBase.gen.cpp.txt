@@ -1,9 +1,9 @@
-C:\Users\18231\Desktop\low\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Development\MateralLearn\Definitions.MateralLearn.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\18231\Desktop\low\UE4-Material-Learn\Source\MateralLearn/MateralLearnGameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\18231\Desktop\low\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Inc\MateralLearn\MateralLearnGameModeBase.generated.h
+C:\Users\Azaz\Documents\GitHub\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Development\MateralLearn\Definitions.MateralLearn.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Azaz\Documents\GitHub\UE4-Material-Learn\Source\MateralLearn/MateralLearnGameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Azaz\Documents\GitHub\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Inc\MateralLearn\MateralLearnGameModeBase.generated.h

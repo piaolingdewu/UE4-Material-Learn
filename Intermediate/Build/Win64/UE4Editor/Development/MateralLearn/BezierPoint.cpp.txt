@@ -1,8 +1,8 @@
-C:\Users\18231\Desktop\low\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Development\MateralLearn\Definitions.MateralLearn.h
-C:\Users\18231\Desktop\low\UE4-Material-Learn\Source\MateralLearn\DrawBezierActor\BezierPoint\BezierPoint.h
-C:\Users\18231\Desktop\low\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Inc\MateralLearn\BezierPoint.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
-C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h
+C:\Users\Azaz\Documents\GitHub\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Development\MateralLearn\Definitions.MateralLearn.h
+C:\Users\Azaz\Documents\GitHub\UE4-Material-Learn\Source\MateralLearn\DrawBezierActor\BezierPoint\BezierPoint.h
+C:\Users\Azaz\Documents\GitHub\UE4-Material-Learn\Intermediate\Build\Win64\UE4Editor\Inc\MateralLearn\BezierPoint.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\DrawDebugHelpers.h

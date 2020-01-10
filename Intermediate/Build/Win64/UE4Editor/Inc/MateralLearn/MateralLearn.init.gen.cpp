@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeMateralLearn_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xC2D008A4,
+				0x7994E1CB,
 				0x361F2833,
 				METADATA_PARAMS(nullptr, 0)
 			};

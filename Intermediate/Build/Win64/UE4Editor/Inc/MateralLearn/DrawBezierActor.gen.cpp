@@ -74,6 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeDrawBezierActor() {}
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ADrawBezierActor_Statics::NewProp_Distance_MetaData[] = {
 		{ "Category", "Points" },
+		{ "Comment", "//????\xc4\xbf?????\xc4\xbe\xdc\xbe?????\n" },
 		{ "ModuleRelativePath", "DrawBezierActor/DrawBezierActor.h" },
 		{ "ToolTip", "????\xc4\xbf?????\xc4\xbe\xdc\xbe?????" },
 	};
@@ -127,7 +128,7 @@ void EmptyLinkFunctionForGeneratedCodeDrawBezierActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ADrawBezierActor, 3888109464);
+	IMPLEMENT_CLASS(ADrawBezierActor, 2731947373);
 	template<> MATERALLEARN_API UClass* StaticClass<ADrawBezierActor>()
 	{
 		return ADrawBezierActor::StaticClass();

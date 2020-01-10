@@ -101,7 +101,7 @@ void EmptyLinkFunctionForGeneratedCodeBezierPoint() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABezierPoint, 2543561848);
+	IMPLEMENT_CLASS(ABezierPoint, 2980750320);
 	template<> MATERALLEARN_API UClass* StaticClass<ABezierPoint>()
 	{
 		return ABezierPoint::StaticClass();

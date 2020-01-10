@@ -88,7 +88,7 @@ void EmptyLinkFunctionForGeneratedCodeBezierMoveActor() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABezierMoveActor, 2237238920);
+	IMPLEMENT_CLASS(ABezierMoveActor, 788150765);
 	template<> MATERALLEARN_API UClass* StaticClass<ABezierMoveActor>()
 	{
 		return ABezierMoveActor::StaticClass();

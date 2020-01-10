@@ -40,6 +40,7 @@ void EmptyLinkFunctionForGeneratedCodeMateralLearnGameModeBase() {}
 	};
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AMateralLearnGameModeBase_Statics::Class_MetaDataParams[] = {
+		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "MateralLearnGameModeBase.h" },
 		{ "ModuleRelativePath", "MateralLearnGameModeBase.h" },
@@ -73,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeMateralLearnGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AMateralLearnGameModeBase, 3547977948);
+	IMPLEMENT_CLASS(AMateralLearnGameModeBase, 3330975);
 	template<> MATERALLEARN_API UClass* StaticClass<AMateralLearnGameModeBase>()
 	{
 		return AMateralLearnGameModeBase::StaticClass();

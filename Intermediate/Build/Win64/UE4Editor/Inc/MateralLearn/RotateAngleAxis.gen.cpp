@@ -123,7 +123,7 @@ void EmptyLinkFunctionForGeneratedCodeRotateAngleAxis() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ARotateAngleAxis, 3113778702);
+	IMPLEMENT_CLASS(ARotateAngleAxis, 2897822277);
 	template<> MATERALLEARN_API UClass* StaticClass<ARotateAngleAxis>()
 	{
 		return ARotateAngleAxis::StaticClass();
